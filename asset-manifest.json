@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ResponsiveNavbar_tailwindcss_react/static/css/main.7de7d5cc.css",
+    "main.js": "/ResponsiveNavbar_tailwindcss_react/static/js/main.579a8fee.js",
+    "static/media/bg.jpg": "/ResponsiveNavbar_tailwindcss_react/static/media/bg.de3369dc0ffd20c54a14.jpg",
+    "index.html": "/ResponsiveNavbar_tailwindcss_react/index.html",
+    "main.7de7d5cc.css.map": "/ResponsiveNavbar_tailwindcss_react/static/css/main.7de7d5cc.css.map",
+    "main.579a8fee.js.map": "/ResponsiveNavbar_tailwindcss_react/static/js/main.579a8fee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7de7d5cc.css",
+    "static/js/main.579a8fee.js"
+  ]
+}
