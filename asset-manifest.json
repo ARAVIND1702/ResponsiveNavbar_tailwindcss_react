@@ -1,14 +1,27 @@
 {
   "files": {
-    "main.css": "/ResponsiveNavbar_tailwindcss_react/static/css/main.fd272b84.css",
-    "main.js": "/ResponsiveNavbar_tailwindcss_react/static/js/main.cb2aa7b3.js",
-    "static/media/bg.jpg": "/ResponsiveNavbar_tailwindcss_react/static/media/bg.de3369dc0ffd20c54a14.jpg",
-    "index.html": "/ResponsiveNavbar_tailwindcss_react/index.html",
-    "main.fd272b84.css.map": "/ResponsiveNavbar_tailwindcss_react/static/css/main.fd272b84.css.map",
-    "main.cb2aa7b3.js.map": "/ResponsiveNavbar_tailwindcss_react/static/js/main.cb2aa7b3.js.map"
+    "main.css": "./static/css/main.438cab4b.css",
+    "main.js": "./static/js/main.5344cefa.js",
+    "static/media/fig.png": "./static/media/fig.749e00de5a67485bb79d.png",
+    "static/media/bg.jpg": "./static/media/bg.de3369dc0ffd20c54a14.jpg",
+    "static/media/2.png": "./static/media/2.13bd16c2a61807e0744e.png",
+    "static/media/Group 1.png": "./static/media/Group 1.afa60164a039ab654440.png",
+    "static/media/RM-ARAVIND_Resume.pdf": "./static/media/RM-ARAVIND_Resume.85bc11f2af08753bd5ec.pdf",
+    "static/media/game.png": "./static/media/game.b056840b72e23f0d2c99.png",
+    "static/media/Achivement1.jpeg": "./static/media/Achivement1.9ffd808e7552a8b66261.jpeg",
+    "static/media/alas.png": "./static/media/alas.437fe7bd6106fd571d2d.png",
+    "static/media/sangamam.png": "./static/media/sangamam.d317894524a593015974.png",
+    "static/media/fireBase.png": "./static/media/fireBase.bff5748e0ad72bf0c427.png",
+    "static/media/ardunio.png": "./static/media/ardunio.fe288b4c92b669519f90.png",
+    "static/media/ps.png": "./static/media/ps.abe2fe837ec2cec3571e.png",
+    "static/media/react.png": "./static/media/react.44319306359c7112276d.png",
+    "static/media/tailwind.png": "./static/media/tailwind.1d2c1662b3934e01a166.png",
+    "index.html": "./index.html",
+    "main.438cab4b.css.map": "./static/css/main.438cab4b.css.map",
+    "main.5344cefa.js.map": "./static/js/main.5344cefa.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd272b84.css",
-    "static/js/main.cb2aa7b3.js"
+    "static/css/main.438cab4b.css",
+    "static/js/main.5344cefa.js"
   ]
 }
